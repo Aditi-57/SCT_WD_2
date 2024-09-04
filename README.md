@@ -2,6 +2,9 @@
 
 Welcome to the **Stopwatch Web Application**! This project is a simple and interactive tool that allows you to keep track of time with ease. Built using HTML, CSS, and JavaScript, it offers essential features like start, pause, reset, and lap time tracking. Whether you're timing your workout, cooking, or just need to keep an eye on the clock, this stopwatch has you covered.
 
+
+#Live Link :-https://deluxe-stroopwafel-1878ef.netlify.app
+
 ## 🚀 Features
 
 - **Start/Stop:** Easily start and stop the timer with a single click.
@@ -17,5 +20,6 @@ Welcome to the **Stopwatch Web Application**! This project is a simple and inter
 - **JavaScript:** Core functionality to control the stopwatch.
 
 ## 📸 Screenshot
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/c4c404a2-61ca-4dd0-948c-575a48607ff5">
 
 
